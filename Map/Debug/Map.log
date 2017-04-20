@@ -1,0 +1,14 @@
+﻿  Main.cpp
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\main.cpp(237): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\main.cpp(238): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\main.cpp(239): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\main.cpp(252): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\main.cpp(258): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\map.h(109): warning C4715: 'Map<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getValue': not all control paths return a value
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\map.h(258): warning C4715: 'Map<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::update': not all control paths return a value
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\map.h(109): warning C4715: 'Map<int,bool>::getValue': not all control paths return a value
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\map.h(258): warning C4715: 'Map<int,bool>::update': not all control paths return a value
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\map.h(109): warning C4715: 'Map<double,float>::getValue': not all control paths return a value
+c:\users\beradinb\documents\university work\year 3\object oriented methods\map\map\map.h(258): warning C4715: 'Map<double,float>::update': not all control paths return a value
+  Map.vcxproj -> C:\Users\BERADINB\Documents\University Work\Year 3\Object Oriented Methods\Map\Debug\Map.exe
+  Map.vcxproj -> C:\Users\BERADINB\Documents\University Work\Year 3\Object Oriented Methods\Map\Debug\Map.pdb (Full PDB)
